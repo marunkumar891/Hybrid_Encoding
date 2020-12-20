@@ -1,4 +1,4 @@
-# Hybrid_Encoding
+# Hybrid_Text_Encoding
 
 - DBR -> Dynamic Bit Reduction
 
