@@ -9,4 +9,4 @@ This project is a Hybrid approach of **lossless Data Compression** using **Dynam
 3. In Decompression, we first decode the text using Huffman decoding algo and this is stored in dbr_huffman_decompressed text file
 4. DBR decompression algo is performed to get final desired output. 
 
-*** For more info regarding Huffman Coding [check herre](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
+***For more info regarding Huffman Coding*** [check herre](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
